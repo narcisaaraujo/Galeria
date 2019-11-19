@@ -1,4 +1,4 @@
-# Practica02-Mi-Sitio-Web-CSS-
+# Practica03-Javascript
 <h1>OBJETIVOS</h1>
 <ul>
   <li>Entender y organizar de una mejor manera los sitios de web en Internet.</li>
@@ -8,6 +8,6 @@
 
 <h1>RESULTADOS</h1>
 <ul>
-  <li>Como resultado obtuvimos la creación de una página web usando el lenguaje de programación HTML y CSS.</li>
+  <li>Como resultado obtuvimos la creacion de una galeria de imagenes
  
 </ul>
